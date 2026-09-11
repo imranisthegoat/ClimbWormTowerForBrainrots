@@ -5,6 +5,7 @@ FEATURES:
 TP TO SECRET
 NOCLIP
 WALKSPEED
-loadstring(game:HttpGet("https://githubusercontent.com"))()
+#LOADSTRING:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/imranisthegoat/ClimbWormTowerForBrainrots/refs/heads/main/Script.txt"))()
 ENJOY!
 THIS IS MY FIRST SCRIPT!
